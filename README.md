@@ -1,7 +1,8 @@
 # Music Loop Prompt — Ollama + LangChain.js + Tone.js 🎵🤖
 A **local** music-idea → spec → 10s clip app. Runs on your machine with **no API keys** (Mac, Linux, or Windows with Node + Ollama).
 
-*(Optional: add a screenshot at `docs/screenshot.png` and uncomment the line below.)*
+<img width="1154" height="736" alt="screenshot" src="https://github.com/user-attachments/assets/a81bee35-e65f-4445-bc0b-5152582bb5d3" />
+
 <!-- ![Music Loop Prompt](docs/screenshot.png) -->
 
 **What it does**
