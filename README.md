@@ -1,4 +1,4 @@
-# Music Loop Prompt — Ollama + LangChain.js + Tone.js 🎵🤖
+# LangChain.js + Ollama + Tone.js 🎵🤖
 A **local** music-idea → spec → 10s clip app. Runs on your machine with **no API keys** (Mac, Linux, or Windows with Node + Ollama).
 
 <img width="1154" height="736" alt="screenshot" src="https://github.com/user-attachments/assets/a81bee35-e65f-4445-bc0b-5152582bb5d3" />
